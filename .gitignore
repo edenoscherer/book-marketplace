@@ -12,3 +12,6 @@ logs
 .env
 .env.prod
 .env.dev
+
+# Test
+/coverage
