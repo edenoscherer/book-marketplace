@@ -4,7 +4,9 @@
   "description": "Base of Book Marketplace",
   "main": "index.js",
   "dependencies": {},
-  "devDependencies": {},
+  "devDependencies": {
+    "git-commit-msg-linter": "^4.1.3"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
