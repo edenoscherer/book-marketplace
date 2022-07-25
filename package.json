@@ -3,7 +3,10 @@
   "version": "1.0.0",
   "description": "Base of Book Marketplace",
   "main": "index.js",
-  "dependencies": {},
+  "dependencies": {
+    "@types/node": "^18.6.1",
+    "typescript": "^4.7.4"
+  },
   "devDependencies": {
     "git-commit-msg-linter": "^4.1.3"
   },
