@@ -1,0 +1,21 @@
+{
+  "name": "book-marketplace",
+  "version": "1.0.0",
+  "description": "Base of Book Marketplace",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edenoscherer/book-marketplace.git"
+  },
+  "author": "Edeno Luiz Scherer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edenoscherer/book-marketplace/issues"
+  },
+  "homepage": "https://github.com/edenoscherer/book-marketplace#readme"
+}
